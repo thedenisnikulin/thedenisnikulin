@@ -3,7 +3,7 @@
 Here's what you should know about me:
 
 **Location:** Russia\
-**Preferred technologies**: TypeScript, Python, C\
+**Preferred technologies**: C#, TypeScript, JS, Python\
 **OS**: Linux (Ubuntu 20.04)
 
 I like backend stuff and statically-typed languages. Also, I've made quite a lot of projects, like [this](https://github.com/thedenisnikulin/chattitude-app-backend/) and [this one](https://github.com/thedenisnikulin/self-taught-dev.ru). Apart from backend, I like investigating the world of programming and extraordinary technologies, so I've built [a blockchain project](https://github.com/thedenisnikulin/poc_p2p_blockchain_project), [frontend one based on React](https://github.com/thedenisnikulin/chattitude-app-frontend), and even [an OS](https://github.com/thedenisnikulin/os-project). I spent time figuring out frontend, but I don't claim it as my major skill.
