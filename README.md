@@ -6,7 +6,7 @@ I do software development for fun and profit, mainly focusing on **web back-end 
 1. [dev.to](https://dev.to/thedenisnikulin)
 2. [Upwork](https://www.upwork.com/o/profiles/users/~0143ebb308e4a6f5c5/)
 3. [LeetCode](https://leetcode.com/thedenisnikulin/) (although quite inactive there)
-4. [VK](https://vk.com/gottagetgrip)
+4. [StackOverflow](https://stackoverflow.com/users/12689465/thedenisnikulin)
 
 
 ### Stats
