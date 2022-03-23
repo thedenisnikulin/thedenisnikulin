@@ -1,12 +1,12 @@
 # 🦀
 
-I do software development for fun and profit, mainly focusing on **web back-end development** (as a job) and **system software development** (as a hobby).
+I do software development for fun and profit with a focus on **back-end development**, **systems** and **functional programming**.
 
  ### Links
-1. [dev.to](https://dev.to/thedenisnikulin)
-2. [Upwork](https://www.upwork.com/o/profiles/users/~0143ebb308e4a6f5c5/)
-3. [LeetCode](https://leetcode.com/thedenisnikulin/) (although quite inactive there)
-4. [StackOverflow](https://stackoverflow.com/users/12689465/thedenisnikulin)
+1. [LeetCode](https://leetcode.com/thedenisnikulin/)
+2. [StackOverflow](https://stackoverflow.com/users/12689465/thedenisnikulin)
+3. [dev.to](https://dev.to/thedenisnikulin)
+4. [Upwork](https://www.upwork.com/o/profiles/users/~0143ebb308e4a6f5c5/)
 
 
 ### Stats
