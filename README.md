@@ -7,7 +7,7 @@ I do software development for fun and profit with a focus on **back-end developm
 2. [StackOverflow](https://stackoverflow.com/users/12689465/thedenisnikulin)
 3. [dev.to](https://dev.to/thedenisnikulin)
 4. [Upwork](https://www.upwork.com/o/profiles/users/~0143ebb308e4a6f5c5/)
-
+5. [Telegram](https://t.me/rw_panic0_0)
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api/?username=thedenisnikulin&show_icons=true&line_height=20&card_width=0&include_all_commits=true" />
