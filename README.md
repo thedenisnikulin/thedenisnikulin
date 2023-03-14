@@ -6,7 +6,7 @@ I hope to become more than a backend developer one day.
 
 **My life interests:** mindfulness, hip-hop music, competitive fps games, anime
 
-**My terminal setup:** [alacritty](https://github.com/alacritty/alacritty) + [starship](https://github.com/starship/starship) + [zellij](https://github.com/zellij-org/zellij) + [nushell](https://github.com/nushell/nushell) + [neovim (lazyvim)](https://github.com/LazyVim/LazyVim) + [other cli tools written in rust](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
+**My terminal setup:** [alacritty](https://github.com/alacritty/alacritty) + [starship](https://github.com/starship/starship) + [zellij](https://github.com/zellij-org/zellij) + [nushell](https://github.com/nushell/nushell) + [helix](https://github.com/helix-editor/helix) + [other cli tools written in rust](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
 
 <img src="https://user-images.githubusercontent.com/46903210/224578012-e8b9d8c8-d714-489d-8727-a3b5b6378cea.jpg" width=300 height=100>
 
