@@ -1,7 +1,5 @@
 # woooo 😤😤😤
 
-I hope to become more than a backend developer one day.
-
 **My tech interests:** server-side, functional and systems programming, computer science (algorithms), cli tools, linux, rust, databases, teaching (article writing)
 
 **My life interests:** mindfulness, hip-hop music, competitive fps games, anime
