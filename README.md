@@ -1,6 +1,6 @@
 # WOOOOOOOOOOO 😤😤😤
 
-**Current tech interests:** any flavor of backend development. Trying to get into math. Trying to solve deez DSA problems sometimes. Low-key into ML (tho not studying anything). Sometimes learn about functional programming and databases. Reading open-source code (and contributing sometimes). Linux, Go, modal editors.
+**Current tech interests:** any flavor of backend development. Trying to get into math. Trying to solve these DSA problems. Low-key into ML (tho not studying anything rn). Like to learn about functional programming, low-level stuff, databases. Reading open-source code (and contributing sometimes). Linux, Go, modal editors.
 
 **Current life interests:** hip-hop music, fps games (mostly into singleplayer recently), anime, psychology (kinda), natural languages (kinda).
 
