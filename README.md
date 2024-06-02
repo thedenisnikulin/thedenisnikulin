@@ -6,7 +6,7 @@
 
 **Work setup:** [alacritty](https://github.com/alacritty/alacritty)/[wezterm](https://github.com/wez/wezterm) + [starship](https://github.com/starship/starship) + [zellij](https://github.com/zellij-org/zellij) + [fish](https://github.com/fish-shell/fish-shell) + ~~[neovim](https://github.com/neovim/neovim) (friendship ended with helix, [my config file](https://github.com/thedenisnikulin/nvim))~~ [vscode](https://github.com/microsoft/vscode)/[helix](https://github.com/helix-editor/helix) (friendship ended with neovim, overconfiguration wastes my time >:P)
 
-Check out [🦆✨tiny writings of rw_panic0_0](thedenisnikulin.github.io/blog/)
+Check out [🦆✨tiny writings of rw_panic0_0](https://thedenisnikulin.github.io/blog/)
 
 me btw 👇
 
