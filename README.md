@@ -13,11 +13,10 @@ me btw 👇
 <img src="https://github.com/thedenisnikulin/thedenisnikulin/assets/46903210/b02824ca-69fa-4f83-9c52-60885d1cbb85" width=300 height=200>
 
  ### Useful links 
-1. [My blog](thedenisnikulin.github.io/blog/)
-2. [LeetCode](https://leetcode.com/thedenisnikulin/)
-3. [StackOverflow](https://stackoverflow.com/users/12689465/thedenisnikulin)
-4. [dev.to](https://dev.to/thedenisnikulin)
-5. [Telegram](https://t.me/rw_panic0_0)
+1. [LeetCode](https://leetcode.com/thedenisnikulin/)
+2. [StackOverflow](https://stackoverflow.com/users/12689465/thedenisnikulin)
+3. [dev.to](https://dev.to/thedenisnikulin)
+4. [Telegram](https://t.me/rw_panic0_0)
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api/?username=thedenisnikulin&show_icons=true&line_height=20&card_width=0&include_all_commits=true" />
