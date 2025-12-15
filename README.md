@@ -1,18 +1,32 @@
 # WOOOOOOOOOOO 😤😤😤
 
-**Current tech interests:** any flavor of backend development. Trying to get into math. Trying to solve these DSA problems. Low-key into ML (tho not studying anything rn). Like to learn about functional programming, low-level stuff, databases. Reading open-source code (and contributing sometimes). Linux, Go, modal editors.
+opinionated software developer
 
-**Current life interests:** hip-hop music, fps games (mostly into singleplayer recently), anime, psychology (kinda), natural languages (kinda).
+\+ into tui/cli tools, go, linux, helix, software that just works™, reading niche tech blogs, participating in niche tech communities
 
-**Work setup:** [alacritty](https://github.com/alacritty/alacritty)/[wezterm](https://github.com/wez/wezterm) + [starship](https://github.com/starship/starship) + [zellij](https://github.com/zellij-org/zellij) + [fish](https://github.com/fish-shell/fish-shell) + ~~[neovim](https://github.com/neovim/neovim) (friendship ended with helix, [my config file](https://github.com/thedenisnikulin/nvim))~~ [vscode](https://github.com/microsoft/vscode)/[helix](https://github.com/helix-editor/helix) (friendship ended with neovim, overconfiguration wastes my time >:P)
+\+ love being among ppl, cute little things, peace, nature, pets, getting to learn myself, teaching
 
-Check out [(▰˘◡˘▰) rw_panic0_0's random brain dumps](https://thedenisnikulin.github.io/)
+\- hate sunday nights, stress, and feeling anxious
+
+repetitive code is ok, sane defaults > extensive configuration, cli>gui, hx>nvim, simple>complex, ubuntu>arch, mac>windows, irl>internet, 5%>0%
+
+in my touching grass era, so not very active at github now
+apart from starring others' cool projects
+
+🎹charli xcx, dora, og buda, playboi carti
+
+🚜usually work as a backend engineer, but ok with switching to a tractor driver 
+
+
+my dev kit: [ghostty](ghostty.org) + [helix](https://github.com/helix-editor/helix) + [a bunch of TUI/CLI tools](https://github.com/stars/thedenisnikulin/lists/tools)
+
+📔check out [(▰˘◡˘▰) rw_panic0_0's random brain dumps](https://thedenisnikulin.github.io/)
 
 me btw 👇
 
 <img src="https://github.com/thedenisnikulin/thedenisnikulin/assets/46903210/b02824ca-69fa-4f83-9c52-60885d1cbb85" width=300 height=200>
 
- ### Useful links 
+ ### me on the internet 
 1. [LeetCode](https://leetcode.com/thedenisnikulin/)
 2. [StackOverflow](https://stackoverflow.com/users/12689465/thedenisnikulin)
 3. [dev.to](https://dev.to/thedenisnikulin)
