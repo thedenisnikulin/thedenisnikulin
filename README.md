@@ -2,7 +2,7 @@
 
 opinionated software developer
 
-\+ into tui/cli tools, go, linux, helix, software that just works™, reading niche tech blogs, participating in niche tech communities
+\+ into tui/cli tools, go, linux, helix, markdown, software that just works™, reading niche tech blogs, participating in niche tech communities
 
 \+ love being among ppl, cute little things, peace, nature, pets, getting to learn myself, teaching, english, feeling emotions, letting things go, freedom
 
