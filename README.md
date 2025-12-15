@@ -8,7 +8,7 @@ opinionated software developer
 
 \- hate sunday nights, stress, and feeling anxious
 
-repetitive code is ok, sane defaults > extensive configuration, cli>gui, hx>nvim, simple>complex, ubuntu>arch, mac>windows, irl>internet, 5%>0%
+repetitive code is ok, sane defaults > extensive configuration, cli>gui, hx>nvim, toml>yaml, simple>complex, ubuntu>arch, mac>windows, irl>internet, 5%>0%
 
 in my touching grass era🌱💅, so not very active at github for now,
 apart from starring others' cool projects
